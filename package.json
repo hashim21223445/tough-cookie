@@ -128,7 +128,7 @@
     "prettier": "^3.3.3",
     "ts-jest": "^29.2.2",
     "ts-node": "^10.9.2",
-    "typescript": "5.5.3",
+    "typescript": "5.7.2",
     "typescript-eslint": "^7.16.1",
     "vows": "^0.8.3"
   },
